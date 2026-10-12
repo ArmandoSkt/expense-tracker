@@ -1,7 +1,7 @@
 ﻿# 24. Convención de idiomas
 
 Fecha: 2026-10-11
-Estado: Aceptado
+Estado: Reemplazado por ADR-0025
 
 ## Contexto
 
