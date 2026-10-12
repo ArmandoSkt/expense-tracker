@@ -1,4 +1,4 @@
-# 1. Usar un monorepo
+﻿# 1. Usar un monorepo
 
 Fecha: 2026-10-11
 Estado: Aceptado
